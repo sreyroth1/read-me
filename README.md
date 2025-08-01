@@ -115,7 +115,6 @@ Allow users or students to view this page to get general information
 - Admission 
 - Partnerships
 
-
 ### Aboutpage
 ---
 This page allow users to see the history of PARAGON international universiry.
@@ -130,8 +129,6 @@ When user click on this button they can see another information like Schoolarshi
 ### Partnership
 ----
 This button can app people to see our partnership, so that they can thrust us fastly by our purpular partner.
-
-
 
 **To see the whole of our website** [Click Here](https://paragoniu.edu.kh/course/bank-management/#)
 
